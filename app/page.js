@@ -66,8 +66,9 @@ export default function MainPage() {
             align="center"
             gutterBottom
           >
-            You're all set! Click the 'Get Started' button below to begin using our chat features.
+            You&apos;re all set! Click the &apos;Get Started&apos; button below to begin using our chat features.
           </Typography>
+
           <Box mt={3} display="flex" justifyContent="center" mb={4}>
             <Button
               variant="contained"
