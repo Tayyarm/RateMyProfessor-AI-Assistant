@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Dr. Johnson is an excellent professor who really engages her students. Her lectures are always interesting and she is always available to help during office hours."
+      },
+      {
+        "professor": "Dr. Samantha Chen",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "Dr. Chen is the best professor I've had. Her teaching style is clear and engaging, and she is always willing to help students who are struggling. I would highly recommend taking any of her classes."
+      },
+      {
+        "professor": "Professor Michael Williams",
+        "subject": "Intro to Computer Science",
+        "stars": 2,
+        "review": "I did not enjoy Professor Williams' class at all. The lectures were boring and he didn't seem to care much about whether the students were learning the material. I would not take another class with him."
+      },
+      {
+        "professor": "Dr. Olivia Davis",
+        "subject": "Developmental Psychology",
+        "stars": 4,
+        "review": "Dr. Davis is a knowledgeable and engaging professor. Her classes are challenging but rewarding, and she is always available to provide extra help or clarification."
+      },
+      {
+        "professor": "Professor David Kim",
+        "subject": "Introduction to Marketing",
+        "stars": 3,
+        "review": "Professor Kim's class was okay. The material was interesting, but his teaching style was a bit dry and he didn't always explain things clearly. The workload was also pretty heavy."
+      },
+      {
+        "professor": "Dr. Isabel Hernandez",
+        "subject": "World History",
+        "stars": 5,
+        "review": "Dr. Hernandez is an amazing professor who really brings history to life. Her lectures are engaging and insightful, and she is always willing to discuss topics in more depth during office hours. I would highly recommend taking any of her classes."
+      },
+      {
+        "professor": "Professor Thomas Martinez",
+        "subject": "Intro to Sociology",
+        "stars": 4,
+        "review": "Professor Martinez is a knowledgeable and approachable instructor. His classes are interesting and he does a good job of facilitating class discussions. The workload is manageable and he provides helpful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Molecular Biology",
+        "stars": 3,
+        "review": "Dr. Patel's class was challenging, but I felt like I learned a lot. Her lectures can be a bit dry at times, and she doesn't always provide clear explanations, but she is knowledgeable about the subject matter."
+      },
+      {
+        "professor": "Professor Robert Nguyen",
+        "subject": "Business Law",
+        "stars": 4,
+        "review": "Professor Nguyen is a engaging and knowledgeable instructor. His classes are well-organized and he does a good job of relating the material to real-world examples. The workload is manageable and he provides useful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Lila Gomez",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Gomez is an exceptional professor who is truly passionate about the subject matter. Her lectures are always interesting and thought-provoking, and she is always willing to go the extra mile to help her students succeed. I would highly recommend taking any of her classes."
+      },
+      {
+        "professor": "Professor Aisha Rahman",
+        "subject": "Intro to Philosophy",
+        "stars": 3,
+        "review": "Professor Rahman's class was hit-or-miss. Some of her lectures were engaging and insightful, while others were a bit dry and confusing. The workload was also pretty heavy, with a lot of reading and writing assignments."
+      },
+      {
+        "professor": "Dr. Liam Zhao",
+        "subject": "Biochemistry",
+        "stars": 4,
+        "review": "Dr. Zhao is a knowledgeable and approachable professor. His lectures are clear and well-organized, and he is always willing to provide extra help to students who are struggling. The workload is challenging but manageable."
+      },
+      {
+        "professor": "Professor Ava Gonzalez",
+        "subject": "Intro to Political Science",
+        "stars": 5,
+        "review": "Professor Gonzalez is an exceptional instructor who really brings the subject matter to life. Her lectures are always engaging and thought-provoking, and she does a great job of facilitating class discussions. I would highly recommend taking any of her classes."
+      },
+      {
+        "professor": "Dr. Ethan Park",
+        "subject": "Intro to Anthropology",
+        "stars": 4,
+        "review": "Dr. Park is a knowledgeable and enthusiastic professor. His lectures are always interesting and he does a good job of incorporating real-world examples. The workload is manageable and he provides helpful feedback on assignments."
+      },
+      {
+        "professor": "Professor Mia Tanaka",
+        "subject": "Intro to Economics",
+        "stars": 3,
+        "review": "Professor Tanaka's class was a bit of a mixed bag. While she is knowledgeable about the subject matter, her teaching style can be a bit dry and she doesn't always provide clear explanations. The workload was also pretty heavy."
+      },
+      {
+        "professor": "Dr. Elijah Ramirez",
+        "subject": "Criminology",
+        "stars": 5,
+        "review": "Dr. Ramirez is an exceptional professor who really brings the subject matter to life. His lectures are always engaging and thought-provoking, and he does a great job of facilitating class discussions. I would highly recommend taking any of his classes."
+      },
+      {
+        "professor": "Professor Isabelle Nguyen",
+        "subject": "Intro to Marketing",
+        "stars": 4,
+        "review": "Professor Nguyen is a knowledgeable and engaging instructor. Her classes are well-organized and she does a good job of relating the material to real-world examples. The workload is manageable and she provides useful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Mason Rodriguez",
+        "subject": "Developmental Psychology",
+        "stars": 3,
+        "review": "Dr. Rodriguez's class was a bit of a mixed bag. Some of his lectures were interesting and insightful, while others were a bit dry and confusing. The workload was also pretty heavy, with a lot of reading and writing assignments."
+      },
+      {
+        "professor": "Professor Amelia Gutierrez",
+        "subject": "Intro to Sociology",
+        "stars": 4,
+        "review": "Professor Gutierrez is a knowledgeable and approachable instructor. Her classes are interesting and she does a good job of facilitating class discussions. The workload is manageable and she provides helpful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Lucas Diaz",
+        "subject": "Intro to Computer Science",
+        "stars": 5,
+        "review": "Dr. Diaz is an exceptional professor who really makes the subject matter engaging and accessible. His lectures are always clear and well-organized, and he is always available to provide extra help to students who are struggling. I would highly recommend taking any of his classes."
+      }
+    ]
+  }
